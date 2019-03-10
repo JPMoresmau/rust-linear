@@ -1,0 +1,10 @@
+[package]
+name = "linear"
+version = "0.1.0"
+authors = ["Jean-Philippe Moresmau <jean-philippe.moresmau@asg.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.5"
+log = "0.4.6"
+env_logger = "0.6.1"
